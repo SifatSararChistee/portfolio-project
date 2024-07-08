@@ -175,3 +175,31 @@ nav ul a{
     display: flex;
     justify-content: center;
 }
+
+/* footer section */
+.socials{
+    margin-top: 130px;
+    background-color:rgb(255, 248, 243) ;
+    padding: 200px;
+    
+}
+.social-container{
+    display: flex;
+    justify-content: space-between;
+}
+.social-link-tittle{
+    padding-bottom: 30px;
+}
+.social-description{
+    max-width: 500px;
+    padding-bottom: 20px;
+}
+footer input[type=text], footer input[type=email], footer textarea
+{
+    font-size: medium;
+    border: none;
+    background-color: white;
+    margin: 10px;
+    display: block;
+    padding: 20px ;
+}
