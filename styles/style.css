@@ -148,3 +148,30 @@ nav ul a{
     padding:50px 50px;
     gap: 25px;
 }
+/* resume section */    
+.resume{
+    margin-top: 130px;
+}    
+.resume-tittle{
+    text-align: center;
+    padding-bottom: 60px;
+}
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+.education h1, .experience h1{
+    padding-bottom: 20px;
+}
+.degree, .experience-items{
+    padding-bottom: 30px;
+}
+
+.university , .company{
+    font-weight: 600;
+    padding: 10px 0 10px 0px;
+}
+.download{
+    display: flex;
+    justify-content: center;
+}
